@@ -1,3 +1,5 @@
 # Build your say_hello method here
 
-def say_hello()
+def intro(name="Student")
+  "Hello, #{name}, welcome to your first day at school!"
+end   
